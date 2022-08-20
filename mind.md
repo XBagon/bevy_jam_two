@@ -9,13 +9,20 @@
 - Nickel (Found mostly in Nickel-Iron Meteorites)
 - Aluminium
 - Gold
+- Graphite
 
 ### Processed:
+-Pig Iron
+  - Smelt Iron
 - Steel/Refined Iron
   - Iron
   - ?
-- Cast Iron ?
-- Ductile Iron ?
+- Cast Iron
+  - Pig Iron
+  - 2 Graphite
+- Ductile Iron
+  - Pig Iron
+  - 1 Graphite
 - Brass
   - 2 Copper
   - 1 Zinc
