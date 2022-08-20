@@ -12,9 +12,9 @@
 - Graphite
 
 ### Processed:
--Iron
+- Iron
   - Smelt Iron Ore
--Pig Iron
+- Pig Iron
   - Smelt Iron
 - Steel/Refined Iron
   - Iron
