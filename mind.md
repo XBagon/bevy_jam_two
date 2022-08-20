@@ -2,7 +2,7 @@
 
 ### Raw:
 - Wood
-- Iron
+- Iron Ore
 - Copper
 - Zinc
 - Tin
@@ -12,11 +12,13 @@
 - Graphite
 
 ### Processed:
+-Iron
+  - Smelt Iron Ore
 -Pig Iron
   - Smelt Iron
 - Steel/Refined Iron
   - Iron
-  - ?
+  - Pig Iron
 - Cast Iron
   - Pig Iron
   - 2 Graphite
